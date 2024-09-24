@@ -21,13 +21,15 @@ Maximizar las ventas: Descubrir oportunidades de venta cruzada y venta adicional
 Evaluar el rendimiento general: Realizar un seguimiento de las métricas clave de ventas, como ingresos, ganancias y valor promedio de los pedidos.
 
 <h4>📝Base de datos </h4> 
-- Tabla de Productos:`productos` (id_producto, nombre, precio, categoría, stock)
-- Tabla de Clientes: `clientes` (id_cliente, nombre, email, fecha_registro)
-- Tabla de Pedidos: `pedidos` (id_pedido, id_cliente, fecha_pedido, estado)
+- Tabla de Productos:`productos` (id_producto, nombre, precio, categoría, stock, coste)
+- Tabla de empleados:`empleados` (id_empleado, nombre, apellido, fecha de contratacion)
+- Tabla de ventas:`ventas` (id_venta, id_liente, id_producto, id_empleado, fecha_venta, cantidad)
+- Tabla de Clientes: `clientes` (id_cliente, nombre, apellido, email, telefono, direccion)
+- Tabla de Pedidos: `pedidos` (id_pedido, id_cliente, fecha_pedido, fecha_entrega, estado_pedido)
 - Tabla de Detalles de Pedido: `detalles_pedido` (id_detalle, id_pedido, id_producto, cantidad, precio_unitario)
 
 <h5> Modelo Relacional: </h5>
-(https://github.com/user-attachments/assets/88886abe-17ae-4d08-95e6-7b7cac467e08)
+
 
 <h6> 🛠️Herramientas a utilizar  </h6>  En este proyecto utilizaremos lenguaje de SQL y el gestor de base de datos MYSQL 🗃️ Base de datos .sql
 
