@@ -30,6 +30,8 @@ Evaluar el rendimiento general: Realizar un seguimiento de las métricas clave d
 
 <h5> Modelo Relacional: </h5>
 
+![Modelo Relacional](https://github.com/Fersolbar/Dressing-Style_SQL/blob/main/modelo%20relacional%20de%20base%20de%20datos%20de%20dressing_style.png)
+
 
 <h6> 🛠️Herramientas a utilizar  </h6>  En este proyecto utilizaremos lenguaje de SQL y el gestor de base de datos MYSQL 🗃️ Base de datos .sql
 
