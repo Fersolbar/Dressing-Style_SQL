@@ -43,7 +43,7 @@ Análisis de economico-financiero de la la evolución de la empresa desde 2022 y
 
 # Análisis financiero 💸
 
-Preguntas sobre Ingresos y Ventas:
+# Preguntas sobre Ingresos y Ventas:
 
 ¿Cuál ha sido la evolución de los ingresos mensuales desde 2022 hasta hoy?
 
@@ -55,19 +55,23 @@ Preguntas sobre Ingresos y Ventas:
 
 ¿Cuál es el valor promedio de un pedido?
 
-Preguntas sobre Clientes:
+¿Cual es el empleado con mayores ventas? ¿Que porcentaje representa sobre las ventas totales de le tienda?
+
+# Preguntas sobre Clientes:
+
+¿Cuantos clientes únicos hay?
 
 ¿Cuántos clientes nuevos se han adquirido cada mes?
 
 ¿Cuál es el valor de vida del cliente (CLTV) promedio?
 
-¿Cuáles son los clientes que más gastan?
+¿Cuáles son los 20 clientes que más gastan? posible acción de marketing sobre esta pregunta.
 
 ¿Cuál es la tasa de retención de clientes?
 
 ¿Cuánto tiempo tarda un cliente en realizar una segunda compra?
 
-Preguntas sobre Rentabilidad:
+# Preguntas sobre Rentabilidad:
 
 ¿Cuáles son los productos más rentables?
 
@@ -75,7 +79,13 @@ Preguntas sobre Rentabilidad:
 
 ¿Cuál es el costo de adquisición de clientes (CAC)?
 
-Preguntas sobre Tendencias:
+¿Cual fue el beneficio total del año 2022 en comparación con 2023 y cuanto se deberia de vender de medai por mes para igualar el año con mayor beneficio?
+
+# Preguntas sobre Tendencias:
+
+¿Cuáles son los productos más populares en cada temporada?
+
+¿Cuáles son las ventas totales por mes o trimestre en 2022 y 2023?
 
 ¿Cuáles son las tendencias de ventas por temporada?
 
@@ -89,13 +99,11 @@ Preguntas sobre el Comportamiento de Compra:
 
 ¿Qué categorías de productos son más populares entre diferentes grupos demográficos de clientes?
 
-Preguntas adicionales que puedes considerar:
 
-¿Cuál es el impacto de los gastos de envío en las ventas?
 
-¿Cómo se comparan las ventas online con las ventas en tiendas físicas (si aplica)?
 
-¿Cuál es el efecto de las devoluciones en los ingresos?
 
-¿Qué canales de marketing son más efectivos para generar ventas?
+
+
+
 
