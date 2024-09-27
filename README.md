@@ -45,7 +45,7 @@ Análisis de economico-financiero de la la evolución de la empresa desde 2022 y
 
 # Preguntas sobre Ingresos y Ventas:
 
-¿Cuál ha sido la evolución de los ingresos mensuales desde 2023 hasta hoy?
+¿Cuál ha sido la evolución de los ingresos mensuales desde 2022 hasta hoy?
 
 ¿Cuáles son los meses con mayores y menores ingresos?
 
