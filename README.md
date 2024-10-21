@@ -46,44 +46,66 @@ Análisis de economico-financiero de la la evolución de la empresa desde 2022 y
 # Preguntas sobre Ingresos y Ventas:
 
 ¿Cuál ha sido la evolución de los ingresos mensuales desde 2021 hasta hoy?
+
 ¿Cuáles son los meses con mayores y menores ingresos?
+
 ¿Cuál es el producto más vendido en términos de cantidad y en términos de ingresos?
+
 ¿Cuáles son las categorías de productos que generan más ingresos?
+
 ¿Cuál es el valor promedio de un pedido?
+
 ¿Cuál ha sido la evolución del ticket medio por pedido a lo largo de los años, desde 2021 hasta 2024?
+
 ¿Cuál es el empleado con mayores ventas? ¿Qué porcentaje representa sobre las ventas totales de le tienda?
 
 # Preguntas sobre Rentabilidad:
 
 Margen de beneficio por producto:
+
 ¿Cuáles son los 5 productos más rentables?
+
 ¿Cuáles son las categorías más rentables?
+
 ¿Cuál fue el beneficio total del año 2021 en comparación con 2024? Teniendo en cuenta que 2024 todavía no ha finalizado y quedan 2 meses por delante, ¿Cuánto se debería de vender de media por mes para igualar los beneficios de 2021 (Año con mayores beneficios)?
+
 # Preguntas sobre Clientes:
+
 ¿Cuántos clientes nuevos se han adquirido cada mes?
+
 ¿Hay algún patrón estacional o tendencia en la adquisición de nuevos clientes? ¿Hay meses donde se adquieren más clientes? ¿A qué se debe? 
 
 Segmentación de clientes:
 
 ¿Hay algún segmento de clientes que esté creciendo más rápidamente?
+
 ¿Cuál es el valor de vida del cliente (CLTV) promedio?
+
 ¿Cuál es el CLTV promedio por año? ¿Se percibe mejora?
+
 ¿Cuáles son los segmentos de clientes que más gastan? 
+
 ¿Qué categorías de productos son más populares entre diferentes grupos demográficos de clientes?
 Analizar si ciertos grupos de clientes por segmento de edad tienen un CLTV más alto o más bajo.
 
 # Análisis de la frecuencia de compra:
 
 ¿Cuánto tiempo promedio tardan los clientes en realizar su segunda compra?
+
 ¿Con que frecuencia compran los clientes? ¿Cuántos días pasan entre una compra y otra por cliente?
+
 ¿Qué porcentaje de clientes realiza más de una compra?
+
 ¿Cuál es el porcentaje de clientes que repite compra dentro del primer mes, trimestre, año?
+
 ¿Qué productos compran los clientes con mayor frecuencia? ¿Hay alguna forma de personalizar la experiencia de compra para aumentar el gasto?
+
 ¿Existe alguna relación entre la categoría de producto y la frecuencia de compra?
 
 # Preguntas sobre Tendencias:
 
 ¿Cuáles son los productos más populares en cada temporada?
+
 ¿Qué cambios se observan en las preferencias de productos a lo largo de los últimos años?
 
 
