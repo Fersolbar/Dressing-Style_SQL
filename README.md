@@ -20,12 +20,18 @@ Optimizar el inventario: Analizar la demanda de productos, identificar artículo
 Maximizar las ventas: Descubrir oportunidades de venta cruzada y venta adicional, y lanzar campañas de marketing dirigidas.
 Evaluar el rendimiento general: Realizar un seguimiento de las métricas clave de ventas, como ingresos, ganancias y valor promedio de los pedidos.
 
-<h4>📝Base de datos </h4> 
+<h4>📝Base de datos </h4>
+
 - Tabla de Productos:`productos` (id_producto, nombre, precio, categoría, stock, coste)
+  
 - Tabla de empleados:`empleados` (id_empleado, nombre, apellido, fecha_de_contratación)
+  
 - Tabla de ventas:`ventas` (id_venta, id_pedido, id_cliente, id_producto, id_empleado, fecha_venta, cantidad)
+  
 - Tabla de Clientes: `clientes` (id_cliente, nombre, apellido, email, pais, edad, genero)
+  
 - Tabla de Pedidos: `pedidos` (id_pedido, id_cliente, fecha_pedido, estado_pedido)
+  
 - Tabla de Detalles de Pedido: `detalles_pedido` (id_detalle, id_pedido, id_producto, cantidad, precio_unitario)
 
 <h5> Modelo Relacional: </h5>
