@@ -22,10 +22,10 @@ Evaluar el rendimiento general: Realizar un seguimiento de las métricas clave d
 
 <h4>📝Base de datos </h4> 
 - Tabla de Productos:`productos` (id_producto, nombre, precio, categoría, stock, coste)
-- Tabla de empleados:`empleados` (id_empleado, nombre, apellido, fecha de contratacion)
-- Tabla de ventas:`ventas` (id_venta, id_liente, id_producto, id_empleado, fecha_venta, cantidad)
-- Tabla de Clientes: `clientes` (id_cliente, nombre, apellido, email, telefono, direccion)
-- Tabla de Pedidos: `pedidos` (id_pedido, id_cliente, fecha_pedido, fecha_entrega, estado_pedido)
+- Tabla de empleados:`empleados` (id_empleado, nombre, apellido, fecha_de_contratación)
+- Tabla de ventas:`ventas` (id_venta, id_pedido, id_cliente, id_producto, id_empleado, fecha_venta, cantidad)
+- Tabla de Clientes: `clientes` (id_cliente, nombre, apellido, email, pais, edad, genero)
+- Tabla de Pedidos: `pedidos` (id_pedido, id_cliente, fecha_pedido, estado_pedido)
 - Tabla de Detalles de Pedido: `detalles_pedido` (id_detalle, id_pedido, id_producto, cantidad, precio_unitario)
 
 <h5> Modelo Relacional: </h5>
@@ -45,59 +45,48 @@ Análisis de economico-financiero de la la evolución de la empresa desde 2022 y
 
 # Preguntas sobre Ingresos y Ventas:
 
-¿Cuál ha sido la evolución de los ingresos mensuales desde 2022 hasta hoy?
-
+¿Cuál ha sido la evolución de los ingresos mensuales desde 2021 hasta hoy?
 ¿Cuáles son los meses con mayores y menores ingresos?
-
 ¿Cuál es el producto más vendido en términos de cantidad y en términos de ingresos?
-
 ¿Cuáles son las categorías de productos que generan más ingresos?
-
 ¿Cuál es el valor promedio de un pedido?
-
-¿Cual es el empleado con mayores ventas? ¿Que porcentaje representa sobre las ventas totales de le tienda?
-
-# Preguntas sobre Clientes:
-
-¿Cuantos clientes únicos hay?
-
-¿Cuántos clientes nuevos se han adquirido cada mes?
-
-¿Cuál es el valor de vida del cliente (CLTV) promedio?
-
-¿Cuáles son los 20 clientes que más gastan? posible acción de marketing sobre esta pregunta.
-
-¿Cuál es la tasa de retención de clientes?
-
-¿Cuánto tiempo tarda un cliente en realizar una segunda compra?
+¿Cuál ha sido la evolución del ticket medio por pedido a lo largo de los años, desde 2021 hasta 2024?
+¿Cuál es el empleado con mayores ventas? ¿Qué porcentaje representa sobre las ventas totales de le tienda?
 
 # Preguntas sobre Rentabilidad:
 
-¿Cuáles son los productos más rentables?
+Margen de beneficio por producto:
+¿Cuáles son los 5 productos más rentables?
+¿Cuáles son las categorías más rentables?
+¿Cuál fue el beneficio total del año 2021 en comparación con 2024? Teniendo en cuenta que 2024 todavía no ha finalizado y quedan 2 meses por delante, ¿Cuánto se debería de vender de media por mes para igualar los beneficios de 2021 (Año con mayores beneficios)?
+# Preguntas sobre Clientes:
+¿Cuántos clientes nuevos se han adquirido cada mes?
+¿Hay algún patrón estacional o tendencia en la adquisición de nuevos clientes? ¿Hay meses donde se adquieren más clientes? ¿A qué se debe? 
 
-¿Cuáles son los clientes más rentables?
+Segmentación de clientes:
 
-¿Cuál es el costo de adquisición de clientes (CAC)?
+¿Hay algún segmento de clientes que esté creciendo más rápidamente?
+¿Cuál es el valor de vida del cliente (CLTV) promedio?
+¿Cuál es el CLTV promedio por año? ¿Se percibe mejora?
+¿Cuáles son los segmentos de clientes que más gastan? 
+¿Qué categorías de productos son más populares entre diferentes grupos demográficos de clientes?
+Analizar si ciertos grupos de clientes por segmento de edad tienen un CLTV más alto o más bajo.
 
-¿Cual fue el beneficio total del año 2022 en comparación con 2023 y cuanto se deberia de vender de medai por mes para igualar el año con mayor beneficio?
+# Análisis de la frecuencia de compra:
+
+¿Cuánto tiempo promedio tardan los clientes en realizar su segunda compra?
+¿Con que frecuencia compran los clientes? ¿Cuántos días pasan entre una compra y otra por cliente?
+¿Qué porcentaje de clientes realiza más de una compra?
+¿Cuál es el porcentaje de clientes que repite compra dentro del primer mes, trimestre, año?
+¿Qué productos compran los clientes con mayor frecuencia? ¿Hay alguna forma de personalizar la experiencia de compra para aumentar el gasto?
+¿Existe alguna relación entre la categoría de producto y la frecuencia de compra?
 
 # Preguntas sobre Tendencias:
 
 ¿Cuáles son los productos más populares en cada temporada?
+¿Qué cambios se observan en las preferencias de productos a lo largo de los últimos años?
 
-¿Cuáles son las ventas totales por mes o trimestre en 2022 y 2023?
 
-¿Cuáles son las tendencias de ventas por temporada?
-
-¿Qué productos han experimentado un aumento o disminución significativa en las ventas?
-
-Preguntas sobre el Comportamiento de Compra:
-
-¿Cuáles son los productos que se suelen comprar juntos?
-
-¿Cuál es el tiempo promedio entre pedidos de un mismo cliente?
-
-¿Qué categorías de productos son más populares entre diferentes grupos demográficos de clientes?
 
 
 
