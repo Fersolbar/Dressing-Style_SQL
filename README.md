@@ -114,6 +114,10 @@ Analizar si ciertos grupos de clientes por segmento de edad tienen un CLTV más 
 
 ¿Qué cambios se observan en las preferencias de productos a lo largo de los últimos años?
 
+# Informe detallado:
+
+![Economic-financial analysis of e-commerce Dressing Style ]()
+
 # Contacto:
 
 - Linkedin: https://www.linkedin.com/in/fernandosolerbarrera/
