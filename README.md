@@ -120,7 +120,9 @@ Analizar si ciertos grupos de clientes por segmento de edad tienen un CLTV más 
 
 # Dashboard:
 
-Dassboard_Dressing_Style.pbix
+El proyecto contiene un Dashboard de ventas dinámico para monitorizar el funcionamiento de la empresa y comprobar de un solo vistazo las métricas relevantes para el negocio.
+
+[Haz clic aquí para descargar el Dashboard de ventas](Dassboard_Dressing_Style.pbix)
 
 # Contacto:
 
