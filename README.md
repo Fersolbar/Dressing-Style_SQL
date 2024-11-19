@@ -118,6 +118,10 @@ Analizar si ciertos grupos de clientes por segmento de edad tienen un CLTV más 
 
 ![Economic-financial analysis of e-commerce Dressing Style ]()
 
+# Dashboard:
+
+![https://github.com/Fersolbar/Dressing-Style_SQL/blob/main/Dassboard_Dressing_Style.pbix]()
+
 # Contacto:
 
 - Linkedin: https://www.linkedin.com/in/fernandosolerbarrera/
