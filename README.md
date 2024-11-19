@@ -120,7 +120,7 @@ Analizar si ciertos grupos de clientes por segmento de edad tienen un CLTV más 
 
 # Dashboard:
 
-![https://github.com/Fersolbar/Dressing-Style_SQL/blob/main/Dassboard_Dressing_Style.pbix]()
+![Dassboard_Dressing_Style.pbix]()
 
 # Contacto:
 
