@@ -43,9 +43,7 @@ Evaluar el rendimiento general: Realizar un seguimiento de las métricas clave d
 
 # 💡Desarrollo | Ejecución
 
-Análisis de modelo relación
-Análisis exploratorio de las tablas
-Análisis de economico-financiero de la la evolución de la empresa desde 2022 y de su situación actual.
+Análisis de economico-financiero de la la evolución de la empresa desde 2021 hasta la actualidad.
 
 # Análisis financiero 💸
 
