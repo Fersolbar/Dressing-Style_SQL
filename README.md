@@ -114,7 +114,7 @@ Analizar si ciertos grupos de clientes por segmento de edad tienen un CLTV más 
 
 # Informe detallado:
 
-[Informe_Analisis_Dressing style.pdf](https://github.com/Fersolbar/Dressing-Style_SQL/blob/main/Informe_Analisis_Dressing%20style.pdf))
+[Informe_Analisis_Dressing style.pdf](https://github.com/Fersolbar/Dressing-Style_SQL/blob/main/Informe_Analisis_Dressing%20style.pdf)
 
 # Dashboard de ventas de Dressing Style:
 
