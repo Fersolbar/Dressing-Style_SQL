@@ -114,7 +114,7 @@ Analizar si ciertos grupos de clientes por segmento de edad tienen un CLTV más 
 
 # Informe detallado:
 
-[Informe_Analisis_Dressing style](Informe_Analisis_Dressing style.pdf)
+[Informe de Analisis](Informe_Analisis_Dressing style.pdf)
 
 # Dashboard de ventas de Dressing Style:
 
